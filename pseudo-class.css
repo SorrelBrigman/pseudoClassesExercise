@@ -1,0 +1,15 @@
+li {
+	display: inline;
+	list-style: none;
+}
+
+span {
+	display: block;
+	border: 1px solid;
+	margin: 25px;
+}
+
+.n-child section:nth-child(even) {
+  border: 1px solid pink;
+
+}
